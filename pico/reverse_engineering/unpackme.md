@@ -1,2 +1,0 @@
-# picoCTF Writeup unpackme.py
-
