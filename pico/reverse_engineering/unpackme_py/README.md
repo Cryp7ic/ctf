@@ -1,1 +1,0 @@
-### picoCTFs Reverse Engineering Category
