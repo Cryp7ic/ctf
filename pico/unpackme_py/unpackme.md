@@ -13,7 +13,7 @@ file unpackme.flag.py
 ```
 
 **Opening the file with sublime text:**
-```subl unpackme.flag.py
+```subl unpackme.flag.py```
 
 ```python
 import base64
